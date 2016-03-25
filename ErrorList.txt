@@ -1,0 +1,18 @@
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
+Error<1> - Could not load texture
+Error<2> - Could not load normal map
