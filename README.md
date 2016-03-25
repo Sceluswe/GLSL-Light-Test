@@ -10,7 +10,10 @@ The provided textures are samples created by Fredrik Koivukorpi.
 The rest of the code is created by me and you may use it any way that you want.
 
 # Requirements
-The project requires the included DLL files to run. These come with the SFML library.
+The project requires the included SFML DLL files to run:
+sfml-graphics-2.dll
+sfml-system-2.dll
+sfml-window-2.dll
 
 # Details
 The program was created using the following IDE:
