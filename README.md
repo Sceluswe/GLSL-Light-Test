@@ -1,5 +1,5 @@
 # GLSL-Light-Test
-A Lighting test for 2D textures and normal maps.
+A Light testing program for 2D textures and normal maps. The purpose of this program is to allow you to test how well your textures work with a simple GLSL light.
 
 # License
 The application is based on SFML http://www.sfml-dev.org/
