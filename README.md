@@ -11,9 +11,9 @@ The rest of the code is created by me and you may use it any way that you want.
 
 # Requirements
 The project requires the included SFML DLL files to run: <br>
-'sfml-graphics-2.dll'<br>
-'sfml-system-2.dll'<br>
-'sfml-window-2.dll'
+`sfml-graphics-2.dll`<br>
+`sfml-system-2.dll`<br>
+`sfml-window-2.dll`
 
 
 # Details
