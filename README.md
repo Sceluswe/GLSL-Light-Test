@@ -1,6 +1,9 @@
 # GLSL-Light-Test
 A Light testing program for 2D textures and normal maps. The purpose of this program is to allow you to test how well your textures work with a simple GLSL light.
 
+Download it and run the .exe
+The program will generate a new settings.txt file if it is deleted. 
+
 # License
 The application is based on SFML http://www.sfml-dev.org/
 SFML is under the zlib/png license. You can use SFML for both open-source and proprietary projects, including paid or commercial ones. If you use SFML in your projects, a credit or mention is appreciated, but is not required.
